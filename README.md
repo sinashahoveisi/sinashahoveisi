@@ -1,8 +1,7 @@
 <p align="center"><a href="https://sinasho.ir/"><img width="80%" alt="Hello, I'm SinaShahoveisi. I do open source!" src="./assets/sinasho.png" /></a></p>
 
-<br />
+
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
-<br />
 
 Appearance is an essential topic and when it comes to websites or apps, the importance is multiplied. In my opinion, if a company's app or website looks good, it can help them succeed in that business and more customers would rely on it. This was the motivation for me to become interested in web and Android application design. Now I am a Professional front-end developer.
 
