@@ -9,6 +9,14 @@ Appearance is an essential topic and when it comes to websites or apps, the impo
 <a href="https://www.linkedin.com/in/sinasho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 <br/>
 
+**About me**
+
+- 💼 FrontEnd Developer at [Telewebion](https://telewebion.com/)
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/sinashahoveisi/sinashahoveisi/issues)
+
 ### 🛠️ Technologies
 [![My Skills](https://skillicons.dev/icons?i=php,py,js,laravel,vue,nuxt,react,ts,next,nodejs,express,nest,nginx,mysql,mongodb,postgres,docker,git)](https://skillicons.dev)
 
