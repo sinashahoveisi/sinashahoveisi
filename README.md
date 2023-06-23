@@ -20,9 +20,14 @@ Appearance is an essential topic and when it comes to websites or apps, the impo
 ### 🛠️ Technologies
 [![My Skills](https://skillicons.dev/icons?i=php,py,js,laravel,vue,nuxt,react,ts,next,nodejs,express,nest,nginx,mysql,mongodb,postgres,docker,git)](https://skillicons.dev)
 
-<br/>
-💻 GitHub Profile Stats
 
-<a href="https://github.com/sinashahoveisi/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sinashahoveisi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+### ⏱️ Wakatime Profile Stats
+<a href="https://wakatime.com/@d071a1e1-8345-462d-8e73-03ac04102e9e"><img src="https://wakatime.com/badge/user/d071a1e1-8345-462d-8e73-03ac04102e9e.svg" alt="Total time coded since Jun 20 2021" /></a>
 
-<a href="https://github.com/sinashahoveisi/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinashahoveisi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sinashahoveisi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 💻 GitHub Profile Stats
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sinashahoveisi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sinashahoveisi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=F85D7F" height="192px"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sinashahoveisi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinashahoveisi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=F85D7F&hide=Jupyter%20Notebook" height="192px"/></a>
