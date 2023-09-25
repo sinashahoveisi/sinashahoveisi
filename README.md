@@ -31,3 +31,6 @@ Appearance is an essential topic and when it comes to websites or apps, the impo
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sinashahoveisi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sinashahoveisi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=F85D7F" height="192px"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sinashahoveisi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinashahoveisi&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=F85D7F&hide=Jupyter%20Notebook" height="192px"/></a>
+
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sinashahoveisi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sinashahoveisi/0" alt="Recent Article 0"></a>
