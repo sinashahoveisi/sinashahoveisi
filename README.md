@@ -34,3 +34,4 @@ Appearance is an essential topic and when it comes to websites or apps, the impo
 
 ### 📝 My Latest Blog Post in Medium
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sinashahoveisi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sinashahoveisi/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sinashahoveisi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sinashahoveisi/0" alt="Recent Article 1"></a>
