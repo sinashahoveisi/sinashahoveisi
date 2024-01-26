@@ -11,7 +11,7 @@ Appearance is an essential topic and when it comes to websites or apps, the impo
 
 **About me**
 
-- 💼 FrontEnd Developer at [Telewebion](https://telewebion.com/)
+- 💼 Software Engineer at [Digikala](https://digikala.com/)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
