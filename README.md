@@ -3,7 +3,7 @@
 
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-Appearance is an essential topic and when it comes to websites or apps, the importance is multiplied. In my opinion, if a company's app or website looks good, it can help them succeed in that business and more customers would rely on it. This was the motivation for me to become interested in web and Android application design. Now I am a Professional front-end developer.
+After entering university in the field of computer engineering, I developed an interest in programming. Strengthening algorithmic design in my mind, I began my journey with Android programming. Subsequently, I became interested in web and mobile development. With over 3 years of experience, I have collaborated with various companies on both full-time and project-based arrangements, successfully completing numerous projects. I am familiar with popular JavaScript frameworks and have a good command of React, React Native, and Next.js. My goal is to enhance my skills as a Software Engineer across all areas of programming, including BackEnd, DevOps, and Network, to become a well-rounded professional deserving of the title of software engineer.
 
 <a href="mailto:shahoveisysina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/sinasho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
